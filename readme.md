@@ -1,9 +1,6 @@
-<<<<<<< Updated upstream
-# git 연습 #
+ #git 연습 
 - github에서 수정함
-=======
-\# git 연습 #
-
-* 로컬에서 수정함
-
->>>>>>> Stashed changes
+- 로컬에서 수정함
+- 로컬에서 2번째로 수정함
+- github애서 수정함
+- 2번째 수정
